@@ -1,4 +1,5 @@
 # projectpika
+![깃ppt사진](https://github.com/user-attachments/assets/1d4342ea-a7ce-4b1f-9ae2-c2c4ba91b3ad)
 [새싹-중간-프로젝트-발표-자료 (1).pdf](https://github.com/user-attachments/files/18111458/-.-.-.-.1.pdf)
 # 프로젝트 소개
 
