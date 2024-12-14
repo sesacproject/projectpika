@@ -6,16 +6,12 @@
 
 # 1. 팀원 구성
 
-| 최지수                                                                                       | 이소정                                                                                                              | 박지훈                                            |        
-
-|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------
-| <img src="readmeImages/최지수 사진.png" width="300/"> <br/><br/> [@jisoo78](https://github.com/jisoo78) | <img src="readmeImages/최지수 사진.png" width="300/"> <br/><br/> [@jisoo78](https://github.com/jisoo78) | <img src="readmeImages/최지수 사진.png" width="300/"> <br/><br/> [@jisoo78](https://github.com/jisoo78) |
 
 | 이름      | 역할 | GitHub |
 |-----------|------|--------|
 | <img src="readmeImages/최지수 사진.png" width="100"> <br> **최지수** | 데이터 임베딩 및 벡터스토어 관리 | [@jisoo78](https://github.com/jisoo78) |
-| <img src="readmeImages/이소정 사진.png" width="100"> <br> **이소정** | QA 체인 생성 및 테스트 | [@sojung78](https://github.com/sojung78) |
-| <img src="readmeImages/박지훈 사진.png" width="100"> <br> **박지훈** | RAG 파이프라인 설계 및 성능 최적화 | [@jihun78](https://github.com/jihun78) |
+| <img src="readmeImages/이소정 사진.png" width="100"> <br> **이소정** | QA 체인 생성 및 테스트 | [@thisisellalee](https://github.com/thisisellalee) |
+| <img src="readmeImages/박지훈 사진.png" width="100"> <br> **박지훈** | RAG 파이프라인 설계 및 성능 최적화 | [@jih78640](https://github.com/jih78640) |
 
 
 
