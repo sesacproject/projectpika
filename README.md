@@ -9,9 +9,9 @@
 
 | 이름      | 역할 | GitHub |
 |-----------|------|--------|
-| <img src="readmeImages/![개발진스파이썬](https://github.com/user-attachments/assets/a85c3c66-6771-447a-9da8-3b5fdc9a9bbb)" width="100"> <br> **최지수** | 데이터 임베딩 및 벡터스토어 관리 | [@jisoo78](https://github.com/jisoo78) |
-| <img src="readmeImages/![개발진스파이썬](https://github.com/user-attachments/assets/a85c3c66-6771-447a-9da8-3b5fdc9a9bbb)" width="100"> <br> **이소정** | QA 체인 생성 및 테스트 | [@thisisellalee](https://github.com/thisisellalee) |
-| <img src="readmeImages/![개발진스파이썬](https://github.com/user-attachments/assets/a85c3c66-6771-447a-9da8-3b5fdc9a9bbb)" width="100"> <br> **박지훈** | RAG 파이프라인 설계 및 성능 최적화 | [@jih78640](https://github.com/jih78640) |
+| <img src="https://github.com/user-attachments/assets/a85c3c66-6771-447a-9da8-3b5fdc9a9bbb" width="100"> <br> **최지수** | 데이터 임베딩 및 벡터스토어 관리 | [@jisoo78](https://github.com/jisoo78) |
+| <img src="https://github.com/user-attachments/assets/a85c3c66-6771-447a-9da8-3b5fdc9a9bbb" width="100"> <br> **이소정** | QA 체인 생성 및 테스트 | [@thisisellalee](https://github.com/thisisellalee) |
+| <img src="https://github.com/user-attachments/assets/a85c3c66-6771-447a-9da8-3b5fdc9a9bbb" width="100"> <br> **박지훈** | RAG 파이프라인 설계 및 성능 최적화 | [@jih78640](https://github.com/jih78640) |
 
 
 
